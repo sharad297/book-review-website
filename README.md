@@ -1,7 +1,7 @@
 
 # Project 1
 Web Programming with Python and JavaScript
-
+In this web app, users are able to register for the website and then log in using their username and password. Once they log in, they will be able to search for books, leave reviews for individual books, and see the reviews made by other people. The web application also uses the a third-party API by Goodreads, another book review website, to pull in ratings from a broader audience. Finally, users are able to query for book details and book reviews programmatically via the website’s API.
   
 
 Hi , this is my second submission to cs50 web ,  project 1 , i created a book review website using flask and postgresql  
